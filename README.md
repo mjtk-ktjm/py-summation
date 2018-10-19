@@ -7,3 +7,5 @@ Demo binary tree for exhaustive search to meet summation criteria.
 * pip install requirements
 * run '''jupyter notebook''' from the root directory of the repo
 * open the SummationTest.ipynb file to execute tests
+
+# a change
