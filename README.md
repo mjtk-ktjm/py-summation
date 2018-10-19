@@ -8,4 +8,3 @@ Demo binary tree for exhaustive search to meet summation criteria.
 * run '''jupyter notebook''' from the root directory of the repo
 * open the SummationTest.ipynb file to execute tests
 
-# a change
